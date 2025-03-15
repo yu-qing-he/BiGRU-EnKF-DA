@@ -1,5 +1,4 @@
 # BiGRU-EnKF-DA
-PM2.5 Concentrations Prediction Using the FSR-MSAGRU model
 A nudging-based data assimilation method coupled with bidirectional gated neural networks for error correction
 1.The dataset contains the raw data and the extracted experimental dataset.
 2.Library files required for the experiment
